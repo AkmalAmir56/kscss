@@ -1782,27 +1782,6 @@ body {
 .cid-qDEphIJCaY .navbar-collapse {
   flex-basis: auto;
 }
-.cid-qDIIG5LCXn {
-  padding-top: 45px;
-  padding-bottom: 60px;
-  background: #232323;
-}
-.cid-qDIIG5LCXn .image-block {
-  margin: auto;
-}
-.cid-qDIIG5LCXn figcaption {
-  position: relative;
-}
-.cid-qDIIG5LCXn figcaption div {
-  position: absolute;
-  bottom: 0;
-  width: 100%;
-}
-@media (max-width: 768px) {
-  .cid-qDIIG5LCXn .image-block {
-    width: 100% !important;
-  }
-}
 .cid-qDEcX6u0I6 .navbar {
   padding: .5rem 0;
   background: #333333;
